@@ -1,2 +1,1 @@
-# THM-NETWORKING-PATH
-Türkçe Thm networkingle alakalı notlar
+**THM-NETWORKING-PATH**
